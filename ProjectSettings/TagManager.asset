@@ -7,6 +7,7 @@ TagManager:
   - RedRocket
   - BlueRocket
   - YellowRocket
+  - Particle
   layers:
   - Default
   - TransparentFX
